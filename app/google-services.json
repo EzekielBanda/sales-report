@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571389841490",
+    "project_id": "learning-6c9ab",
+    "storage_bucket": "learning-6c9ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571389841490:android:564012a05c7e4ad2f18f8b",
+        "android_client_info": {
+          "package_name": "com.unitech.learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYVrXxeM6EiP0YFpRyrteOQl5c_6J1O2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
